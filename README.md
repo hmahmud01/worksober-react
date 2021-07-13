@@ -11,7 +11,7 @@ Project Requirements:
 
 
 ## Application run Guide
-1. First clone the project `https://github.com/hmahmud01/study-viewer-frontend.git`
+1. First clone the project `https://github.com/hmahmud01/worksober-react.git`
 2. Inside the directory folder run `npm install` command to install necessary libraries.
 3. Run `npm start` to run the project
 4. go to `http://localhost:3000` for the demo application.
